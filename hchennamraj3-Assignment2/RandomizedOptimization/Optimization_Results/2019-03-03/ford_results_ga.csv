@@ -1,0 +1,4 @@
+GA,10,10,5,2,training accuracy,59.114,training time,1.025,testing time,0.040
+GA,10,10,5,2,testing accuracy,58.333,training time,1.025,testing time,0.031
+GA,10,25,10,5,training accuracy,55.914,training time,1.571,testing time,0.024
+GA,10,25,10,5,testing accuracy,55.067,training time,1.571,testing time,0.010

@@ -1,0 +1,6 @@
+SA,10,0.35,1.0E7,training accuracy,51.400,training time,0.596,testing time,0.048
+SA,10,0.35,1.0E7,testing accuracy,51.067,training time,0.596,testing time,0.030
+SA,10,0.35,1.0E9,training accuracy,53.529,training time,0.331,testing time,0.025
+SA,10,0.35,1.0E9,testing accuracy,53.533,training time,0.331,testing time,0.015
+SA,10,0.35,1.0E11,training accuracy,42.214,training time,0.297,testing time,0.029
+SA,10,0.35,1.0E11,testing accuracy,43.733,training time,0.297,testing time,0.019
