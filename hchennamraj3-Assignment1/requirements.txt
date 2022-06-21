@@ -4,7 +4,7 @@ et-xmlfile==1.0.1
 jdcal==1.4
 kiwisolver==1.0.1
 matplotlib==2.2.3
-numpy==1.16.0
+numpy==1.22.0
 openpyxl==2.5.14
 pandas==0.24.0
 PyBrain==0.3
